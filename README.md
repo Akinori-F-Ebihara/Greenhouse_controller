@@ -1,11 +1,11 @@
-# Greenhouse_controller
+# Greenhouse Controller
 (Under construction) Python codes to control day/night temperature, humidity, and light. 
 
-## Requirements
+## Tested Environment
 - Raspberry Pi version 4 (version 3 not tested)
-- SwitchBot smart plug or equivalent
-- IFTTT 
-- WebHooks
+- SwitchBot smart plugs 
+- SwitchBot API
+* IFTTT is not required.
 
 ## References
 SwitchBot温湿度計の値をRaspberryPiでロギング  
