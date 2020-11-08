@@ -5,7 +5,6 @@
 - Raspberry Pi version 4 (version 3 not tested)
 - SwitchBot smart plugs 
 - SwitchBot API
-* IFTTT is not required.
 
 ## References
 SwitchBot温湿度計の値をRaspberryPiでロギング  
